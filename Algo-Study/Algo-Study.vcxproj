@@ -20,7 +20,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="1.DFS-BFS\1260_dfs_bfs.cpp" />
-    <ClCompile Include="2.Back-Tracking\n-queen.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

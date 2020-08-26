@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="2.Back-Tracking\n-queen.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="1.DFS-BFS\1260_dfs_bfs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
