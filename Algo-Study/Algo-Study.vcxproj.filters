@@ -18,5 +18,8 @@
     <ClCompile Include="1.DFS-BFS\1260_dfs_bfs.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1.DFS-BFS\2178_maze_navigation.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
