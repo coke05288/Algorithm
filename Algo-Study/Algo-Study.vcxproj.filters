@@ -24,5 +24,14 @@
     <ClCompile Include="0.Implementation\2741_N.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2.Back-Tracking\9663_N_Queen.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Back-Tracking\2580_sudoqku.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2.Back-Tracking\15649_NandM.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
