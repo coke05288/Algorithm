@@ -33,5 +33,14 @@
     <ClCompile Include="2.Back-Tracking\15649_NandM.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1.DFS-BFS\programmers_target_number.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1.DFS-BFS\programmers_travel_load.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="0.Implementation\9455_box.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
