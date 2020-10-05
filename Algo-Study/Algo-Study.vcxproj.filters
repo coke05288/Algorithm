@@ -48,5 +48,8 @@
     <ClCompile Include="4.Greedy\11501_stock.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="5.Graph\6186_best_grass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
