@@ -57,5 +57,11 @@
     <ClCompile Include="6. Divide-and-Conquer\quicksort.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="6. Divide-and-Conquer\1992_quard_tree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6. Divide-and-Conquer\2805_cut_tree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
