@@ -63,5 +63,14 @@
     <ClCompile Include="6. Divide-and-Conquer\2805_cut_tree.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="7. Stack-and-Queue\programmers_function-development.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Stack-and-Queue\programmers_skill-tree.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="7. Stack-and-Queue\programmers_fine-square.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
