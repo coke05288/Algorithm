@@ -18,7 +18,7 @@ vector<int> solution(vector<int> progresses, vector<int> speeds) {
 		}
 		q.push(day);
 	}
-
+	
 	int cnt(1);
 	current = q.front();
 	q.pop();

@@ -72,5 +72,14 @@
     <ClCompile Include="7. Stack-and-Queue\programmers_fine-square.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0.Implementation\programmers_fine-square.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6. Divide-and-Conquer\1072_game.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6. Divide-and-Conquer\3079_imigration.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
