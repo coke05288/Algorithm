@@ -81,5 +81,14 @@
     <ClCompile Include="6. Divide-and-Conquer\3079_imigration.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2019-Kakao-Coding-Test\candidate_key.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="test.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2019-Kakao-Coding-Test\open_chat.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
