@@ -90,5 +90,8 @@
     <ClCompile Include="2019-Kakao-Coding-Test\open_chat.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2018-Kakao-Coding-Test\dart_game.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
