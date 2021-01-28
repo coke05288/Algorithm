@@ -1,18 +1,18 @@
 # 알고리즘의 시간 복잡도 분석
 
-
+</br>
 
 ## 00. 알고리즘 이란?
 
 주어진 문제를 해결하기 위한 방법을 명료하게 서술한 것.
 
-
+</br>
 
 ### ▶ 예시
 
 서울 신촌역에서 춘천에 가는 방법  
 
-
+</br>
 
 - **⭕정당한 알고리즘의 예시**
 
@@ -68,7 +68,7 @@
 
 </br>
 
-**▶ [ex 01) [주어진 배열에서 가장 많이 등장하는 숫자를 반환](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example01.cpp)]
+**▶ [ex 01) [주어진 배열에서 가장 많이 등장하는 숫자를 반환](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example01.cpp)]**
 
 해당 알고리즘은 주어진 배열 A에 등장하는 A[i]의 개수를 순회하며 체크한다.
 
@@ -76,7 +76,7 @@
 
 </br>
 
-**[][▶ [ex 02) 주어진 배열에서 가장 많이 등장하는 숫자를 반환2]<**▶ [ex 02) [주어진 배열에서 가장 많이 등장하는 숫자를 반환2](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example02.cpp)]>**
+**▶ [ex 02) [주어진 배열에서 가장 많이 등장하는 숫자를 반환2](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example02.cpp)]>**
 
 해당 문제에서 처럼 주어진 배열의 범위가 작을 때는 빈도수 배열을 순회하면서 최대 위치를 찾을 수 있다.
 
