@@ -76,7 +76,7 @@
 
 </br>
 
-**▶ [ex 02) [주어진 배열에서 가장 많이 등장하는 숫자를 반환2](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example02.cpp)]>**
+**▶ [ex 02) [주어진 배열에서 가장 많이 등장하는 숫자를 반환2](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example02.cpp)]**
 
 해당 문제에서 처럼 주어진 배열의 범위가 작을 때는 빈도수 배열을 순회하면서 최대 위치를 찾을 수 있다.
 
