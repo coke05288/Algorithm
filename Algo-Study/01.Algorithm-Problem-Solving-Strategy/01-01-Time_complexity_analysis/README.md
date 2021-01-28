@@ -10,7 +10,7 @@
 
 ### ▶ 예시
 
-서울 신촌역에서 춘천에 가는 방법
+서울 신촌역에서 춘천에 가는 방법  
 
 
 
@@ -22,7 +22,7 @@
 
 3. 경춘선을 타고, 춘천역에서 내린다.
 
-   
+     
 
 - **❌정당하지 않은 알고리즘의 예시**
 
@@ -32,11 +32,11 @@
 
 3. 춘천 쪽으로 가는 버스로 갈아타고, 도착하면 내린다.
 
-   
+     
 
 >  🔅위 예시가 정당하지 않은 이유 : 일련의 방법이 본질적으로 **모호**하다.
 
-
+  
 
 ### ▶ 알고리즘을 평가하는 두 가지의 큰 기준
 
@@ -48,35 +48,35 @@
 
    알고리즘이 적은 공간을 사용한 다는 것은 더 적은 용량의 메모리를 사용한다는 것.
 
+  
 
+  
 
-
-
-
+  
 
 ## 01. 알고리즘 속도 측정 방법
 
 > 좀더 빠른 알고리즘을 만들기 위해 가장 먼저 해야 할 일은 알고리즘의 속도를 측정하는 것.
 
+  
 
-
-### ▶ 💥반복문이 지배한다.
+### 💥반복문이 지배한다.
 
 대개 알고리즘의 수행시간을 측정할때는 **반복문이 수행되는 횟수**로 측정한다.
 
 - 이때 반복문의 수행 횟수는 **입력 크기에 대한 함수**로 표현한다.
 
+  
 
-
-**▶ [ex 01) 주어진 배열에서 가장 많이 등장하는 숫자를 반환]<https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example01.cpp>**
+**[][▶ [ex 01) 주어진 배열에서 가장 많이 등장하는 숫자를 반환]<https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example01.cpp>**
 
 해당 알고리즘은 주어진 배열 A에 등장하는 A[i]의 개수를 순회하며 체크한다.
 
 > 알고리즘 수행시간 N^2
 
+  
 
-
-**▶ [ex 02) 주어진 배열에서 가장 많이 등장하는 숫자를 반환2 ]<https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example02.cpp>**
+**[][▶ [ex 02) 주어진 배열에서 가장 많이 등장하는 숫자를 반환2]<https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example02.cpp>**
 
 해당 문제에서 처럼 주어진 배열의 범위가 작을 때는 빈도수 배열을 순회하면서 최대 위치를 찾을 수 있다.
 
