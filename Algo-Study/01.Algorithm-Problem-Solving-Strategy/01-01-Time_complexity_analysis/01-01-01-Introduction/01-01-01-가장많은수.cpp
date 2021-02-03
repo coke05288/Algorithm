@@ -1,10 +1,10 @@
+// 주어진 배열에서 가장 많이 등장하는 숫자를 반환하기.
+// 두가지 이상있을 경우 아무 값이나 반환.
 #include<iostream>
 #include<vector>
 using namespace std;
 
 // N^2
-// 주어진 배열에서 가장 많이 등장하는 숫자를 반환하기.
-// 두가지 이상있을 경우 아무 값이나 반환.
 int majority1(const vector<int>& A) {
 
 	int N = A.size();
@@ -19,7 +19,6 @@ int majority1(const vector<int>& A) {
 				count++;
 			}
 		}
-
 		if (count > majorityCount) {
 			majorityCount = count;
 			majority = V;

@@ -68,16 +68,52 @@
 
 </br>
 
-**😀[ex 01) [주어진 배열에서 가장 많이 등장하는 숫자를 반환](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01_example01.cpp)]**
+**😀[ex 01) [주어진 배열에서 가장 많이 등장하는 숫자를 반환](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01-가장많은수.cpp)]**
 
 해당 알고리즘은 주어진 배열 A에 등장하는 A[i]의 개수를 순회하며 체크한다.
 
-> 알고리즘 수행시간 N^2
+> 알고리즘 수행시간: N^2
 
 </br>
 
-**😀[ex 02) [주어진 배열에서 가장 많이 등장하는 숫자를 반환2](https://github.com/coke05288/Algorithm/blob/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01-example02.cpp)]**
+**😀[ex 02) [주어진 배열에서 가장 많이 등장하는 숫자를 반환2 : 숫자의 범위가 적을때](https://github.com/coke05288/Algorithm/blob/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-01-Introduction/01-01-01-가장많은수2.cpp)]**
 
 해당 문제에서 처럼 주어진 배열의 범위가 작을 때는 빈도수 배열을 순회하면서 최대 위치를 찾을 수 있다.
 
-> 알고리즘 수행시간 N + 100 -> N
+> 알고리즘 수행시간 : N + 100 -> N
+
+</br>
+
+</br>
+
+</br>
+
+</br>
+
+## 02. 선형 시간 알고리즘
+
+> 입력의 크기 N에 정비례하는 알고리즘을 선형 시간(Linear Time)알고리즘 이라고한다.
+
+</br>
+
+**😀[ex 01) [이동 평균 구하기](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-02-Linear-time-Algorithm/01-01-02-이동평균.cpp)]**
+
+해당 알고리즘은 M(이동평균)을 기준으로 M개많큼의 평균값을 순차적으로 연산한다.
+
+> 알고리즘 수행시간 : M x (N - M +1)번
+
+</br>
+
+**😀[ex 02) [이동 평균 구하기 2 : 중복되는 연산 제거](https://github.com/coke05288/Algorithm/blob/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-02-Linear-time-Algorithm/01-01-02-이동평균2.cpp)]**
+
+위 예제에서 중복된 연산을 제거.  M-1일까지의 합을 구한 뒤, M + i 값을 더해주고, i - M + 1 번째 값을 빼준다.
+
+> 알고리즘 수행시간 : M - 1 + (N - M + 1) -> N
+
+</br>
+
+</br>
+
+</br>
+
+</br>

@@ -156,10 +156,16 @@
     <ClCompile Include="03.Programmers\2018-Kakao-Coding-Test\dart_game.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="01.Algorithm-Problem-Solving-Strategy\01-01-Time_complexity_analysis\01-01-01-Introduction\01-01-01-example02.cpp">
+    <ClCompile Include="01.Algorithm-Problem-Solving-Strategy\01-01-Time_complexity_analysis\01-01-01-Introduction\01-01-01-가장많은수2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="01.Algorithm-Problem-Solving-Strategy\01-01-Time_complexity_analysis\01-01-01-Introduction\01-01-01_example01.cpp">
+    <ClCompile Include="01.Algorithm-Problem-Solving-Strategy\01-01-Time_complexity_analysis\01-01-02-Linear_time_Algorithm\01-01-02-이동평균2.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="01.Algorithm-Problem-Solving-Strategy\01-01-Time_complexity_analysis\01-01-02-Linear_time_Algorithm\01-01-02-이동평균.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="01.Algorithm-Problem-Solving-Strategy\01-01-Time_complexity_analysis\01-01-01-Introduction\01-01-01-가장많은수.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
