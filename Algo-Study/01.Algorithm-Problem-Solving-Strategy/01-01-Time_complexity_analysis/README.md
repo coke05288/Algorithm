@@ -96,7 +96,7 @@
 
 </br>
 
-**😀[ex 01) [이동 평균 구하기](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-02-Linear-time-Algorithm/01-01-02-이동평균.cpp)]**
+**😀[ex 01) [이동 평균 구하기](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-02-Linear_time_Algorithm/01-01-02-이동평균.cpp)]**
 
 해당 알고리즘은 M(이동평균)을 기준으로 M개많큼의 평균값을 순차적으로 연산한다.
 
@@ -104,7 +104,7 @@
 
 </br>
 
-**😀[ex 02) [이동 평균 구하기 2 : 중복되는 연산 제거](https://github.com/coke05288/Algorithm/blob/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-02-Linear-time-Algorithm/01-01-02-이동평균2.cpp)]**
+**😀[ex 02) [이동 평균 구하기 2 : 중복되는 연산 제거](https://github.com/coke05288/Algorithm/tree/master/Algo-Study/01.Algorithm-Problem-Solving-Strategy/01-01-Time_complexity_analysis/01-01-02-Linear_time_Algorithm/01-01-02-이동평균2.cpp)]**
 
 위 예제에서 중복된 연산을 제거.  M-1일까지의 합을 구한 뒤, M + i 값을 더해주고, i - M + 1 번째 값을 빼준다.
 
