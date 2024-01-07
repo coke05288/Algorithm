@@ -10,9 +10,9 @@ bool check(pair<int, int> p) {
 
 	// 같은 행, 열 check : 같은 숫자가 있으면 return false
 	for (int i = 0; i < 9; i++) {
-		if (i != p.second && board[p.first][i] == board[p.first][p.second] )
+		if (i != p.second && board[p.first][i] == board[p.first][p.second])
 			return false;
-		if (i != p.first && board[i][p.second] == board[p.first][p.second] )
+		if (i != p.first && board[i][p.second] == board[p.first][p.second])
 			return false;
 	}
 
