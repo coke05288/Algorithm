@@ -147,6 +147,12 @@
     <ClCompile Include="02.Baekjoon\7.Back-Tracking\Baekjoon_15650_N과M_2.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="04.Study\DataStructure\example_linkedlist.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="02.Baekjoon\6.DFS-BFS\adjacency-list-depth-first-search.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="01.Algorithm-Problem-Solving-Strategy\01-01-Time_complexity_analysis\01-01-Time_complexity_analysis.md" />
